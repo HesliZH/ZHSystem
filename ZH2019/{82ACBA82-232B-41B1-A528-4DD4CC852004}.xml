@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2023/04/08" author="e.World Technology Ltd.">
+  <project id="{82ACBA82-232B-41B1-A528-4DD4CC852004}" file="C:\Projetos\ZH_System\ZH2019.pmp" name="ZH2019" product="PHPMaker" version="15.0" datetime="2023/04/08 13:34:06" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+    <table id="contas_pagar_pagamentos" name="contas_pagar_pagamentos" caption="contas pagar pagamentos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="bens" name="bens" caption="bens" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="contas_correntes" name="contas_correntes" caption="contas correntes" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="compras" name="compras" caption="compras" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="fornecedores" name="fornecedores" caption="fornecedores" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="usuario" name="usuario" caption="usuario" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="contas_pagar" name="contas_pagar" caption="contas pagar" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="formas_pagamento" name="formas_pagamento" caption="formas pagamento" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="localizacao" name="localizacao" caption="localizacao" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="compras_itens" name="compras_itens" caption="compras itens" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="contas_correntes_movimento" name="contas_correntes_movimento" caption="contas correntes movimento" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="item" name="item" caption="item" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+  </project>
+</configuration>
